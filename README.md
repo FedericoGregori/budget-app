@@ -1,0 +1,3 @@
+# budget-app
+
+## JavaScript training 
